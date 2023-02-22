@@ -16,6 +16,7 @@ tags:
 author: SaggyTroy
 paginate: false
 ---
+<img src="assets/img/uploads/ProfilePic.png" alt="ProfilePic">
 Call me a **loser**, but this is the best gift I have ever received *(yeah the card does not beat this one)*. It makes me proud to be your boyfriend and glad that you are an artist because of how talented you are in creating these beautiful drawings. The fact that you spent so much time and effort drawing us together in your cute little art style makes my heart *flutter* every time I look at my discord profile picture so *thank you* for this wonderful gift :D.
 
 > And yes, I deadass could not tell that you were drawing me at first and thought you were doodling some anime character or one of your friends *(yeah I'm not smart...)*

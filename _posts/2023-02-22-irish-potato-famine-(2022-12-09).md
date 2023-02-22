@@ -14,6 +14,7 @@ tags:
 author: SaggyTroy
 paginate: true
 ---
+<img src="assets/img/uploads/love5.png" alt="love5">
 Oh my my. This has to be the **best** selfie of us together. If I could, I would make this my instagram profile picture, slather it on all of my social medias, and praise it like the next Mona Lisa. The lighting on this photo is absolutely fantastic, and the quality is just spectacular *(I really need to give my phone some more love)*. Your hair looks beautiful here *(I really like the hair strands covering your eye)*, and we both look so comfy with our hoods and jackets on during this winter day.
 
 Okay, enough fangirling lol. This photo was taken on top of the **Irish Potato Famine Memorial** when we went there to bag your Hanna extra credit. The walk was not too far and it was one of the rare times when we did not get lost using Google maps. The memorial was honestly pretty depressing with all the dead flowers, but the view was great, with the Hudson River on one side while the Manhattan buildings lined the other. 
