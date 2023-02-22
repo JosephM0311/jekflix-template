@@ -1,10 +1,10 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
-name: mranderson
-display_name: Mr. Anderson
-position: The One
-bio: Bulletproof hacker passionate about leather clothes.
+photo: /assets/img/uploads/saggytroy.png
+name: SaggyTroy
+display_name: SaggyTroy
+position: Homunculus
+bio: Certified Fart Smella, not Smart Fella.
 github_username: github_username
 facebook_username: facebook_username
 twitter_username: twitter_username

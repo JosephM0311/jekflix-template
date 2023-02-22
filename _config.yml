@@ -1,14 +1,13 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: BunBunExpress
+title: BunBunExpress | A Website for BunBunExpress
+description: Website for BunBunExpress
 tags:
-  - blog
-  - template
+  - bunbun
+  - valentine's
   - jekyll
   - theme
-  - netlify
+  - gift
 show_hero: true
 menu:
   - title: Home
@@ -19,9 +18,9 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: mylove@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username:
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
@@ -34,7 +33,6 @@ facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
 linkedin_username: linkedin_username
-medium_username: medium_username
 
 
 # Posts Settings
